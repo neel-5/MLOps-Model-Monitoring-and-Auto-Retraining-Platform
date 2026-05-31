@@ -1,0 +1,421 @@
+customer_id,age,tenure_months,monthly_charges,total_charges,support_calls,contract_type,internet_service,payment_method,paperless_billing,churn
+CUST-CUR-0001,41,1,33.39,33.39,0,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0002,26,19,73.54,1346.71,1,Two year,DSL,Credit card,Yes,0
+CUST-CUR-0003,67,2,81.93,155.47,1,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0004,50,1,70.34,70.34,1,Month-to-month,DSL,Mailed check,No,0
+CUST-CUR-0005,40,1,48.39,48.39,1,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0006,75,57,61.95,3533.99,4,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0007,19,25,49.97,1218.6,0,One year,No,Electronic check,Yes,0
+CUST-CUR-0008,34,6,113.51,685.96,1,Two year,DSL,Electronic check,Yes,0
+CUST-CUR-0009,68,10,53.05,423.27,1,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0010,59,45,82.89,3770.3,0,Two year,No,Credit card,No,0
+CUST-CUR-0011,69,2,91.12,305.72,2,Two year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0012,35,1,55.44,128.27,0,Month-to-month,No,Credit card,Yes,0
+CUST-CUR-0013,21,29,121.02,3385.59,4,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0014,21,67,57.49,3868.16,2,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0015,31,1,75.07,144.67,3,Month-to-month,No,Bank transfer,No,0
+CUST-CUR-0016,39,32,69.04,2195.96,4,One year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0017,38,16,72.66,1216.7,1,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0018,40,72,62.67,4562.22,0,Two year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0019,33,37,109.01,4010.41,0,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0020,18,1,69.47,69.47,1,Month-to-month,No,Electronic check,Yes,1
+CUST-CUR-0021,51,20,68.9,1316.6,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0022,53,1,52.3,99.78,1,Month-to-month,No,Electronic check,No,1
+CUST-CUR-0023,28,35,51.52,1844.33,1,Month-to-month,No,Mailed check,Yes,0
+CUST-CUR-0024,30,72,58.11,4132.01,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0025,32,59,60.81,3563.61,2,One year,No,Electronic check,No,0
+CUST-CUR-0026,42,4,87.44,472.01,0,Month-to-month,Fiber optic,Credit card,Yes,1
+CUST-CUR-0027,46,1,83.78,83.78,1,One year,DSL,Credit card,No,0
+CUST-CUR-0028,42,19,61.02,1169.13,1,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0029,47,6,90.06,424.81,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0030,29,6,42.78,216.82,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0031,65,72,71.38,5089.52,0,Two year,No,Electronic check,No,0
+CUST-CUR-0032,42,72,30.79,2349.17,0,One year,DSL,Credit card,No,0
+CUST-CUR-0033,50,63,72.33,4551.3,0,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0034,68,3,94.18,277.2,0,Two year,DSL,Credit card,No,0
+CUST-CUR-0035,51,1,71.74,71.74,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0036,50,17,64.81,1114.48,5,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0037,42,7,77.69,396.53,3,Month-to-month,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0038,43,15,72.88,1089.18,0,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0039,33,25,131.95,3314.59,6,Month-to-month,DSL,Credit card,Yes,1
+CUST-CUR-0040,56,16,70.75,1067.5,0,One year,Fiber optic,Electronic check,No,0
+CUST-CUR-0041,59,4,75.64,121.8,3,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0042,39,23,51.76,1102.2,4,Month-to-month,No,Bank transfer,No,0
+CUST-CUR-0043,61,9,84.84,678.02,1,One year,DSL,Credit card,Yes,0
+CUST-CUR-0044,53,13,89.71,1110.54,3,Month-to-month,No,Electronic check,Yes,0
+CUST-CUR-0045,49,60,70.33,4248.65,0,Month-to-month,No,Electronic check,No,0
+CUST-CUR-0046,76,4,79.25,375.91,2,Two year,No,Credit card,No,0
+CUST-CUR-0047,67,37,75.38,2886.54,1,Two year,No,Bank transfer,No,0
+CUST-CUR-0048,38,56,61.09,3284.77,0,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0049,39,1,76.04,88.41,0,One year,DSL,Bank transfer,Yes,0
+CUST-CUR-0050,46,8,101.99,712.12,3,One year,DSL,Electronic check,No,1
+CUST-CUR-0051,29,23,102.56,2378.83,1,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0052,41,10,59.1,446.29,4,One year,DSL,Bank transfer,No,1
+CUST-CUR-0053,41,1,68.99,68.99,0,Two year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0054,38,2,66.1,136.27,0,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0055,52,5,75.59,280.66,9,Month-to-month,No,Credit card,No,0
+CUST-CUR-0056,64,37,100.88,3755.82,4,Two year,DSL,Bank transfer,No,0
+CUST-CUR-0057,52,72,71.03,5169.62,0,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0058,37,14,89.01,1280.92,1,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0059,65,14,60.39,824.82,0,Month-to-month,No,Credit card,Yes,0
+CUST-CUR-0060,48,13,69.35,861.24,1,One year,DSL,Electronic check,No,0
+CUST-CUR-0061,66,9,74.82,844.26,1,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0062,41,72,96.79,6981.81,0,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0063,43,15,96.58,1364.4,0,Month-to-month,Fiber optic,Mailed check,No,0
+CUST-CUR-0064,39,9,68.83,557.63,1,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0065,66,69,95.78,6664.73,2,One year,No,Electronic check,Yes,0
+CUST-CUR-0066,45,24,80.38,1893.22,3,One year,DSL,Bank transfer,No,0
+CUST-CUR-0067,41,1,82.52,138.45,2,Month-to-month,No,Credit card,Yes,1
+CUST-CUR-0068,37,20,60.36,1221.37,6,Two year,No,Credit card,No,0
+CUST-CUR-0069,60,6,42.43,313.29,3,Two year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0070,51,27,89.3,2404.12,2,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0071,45,34,51.01,1707.22,0,One year,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0072,47,25,72.1,1765.77,2,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0073,41,15,97.88,1485.41,0,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0074,64,2,85.97,274.59,2,Month-to-month,Fiber optic,Mailed check,No,1
+CUST-CUR-0075,66,1,95.33,95.33,0,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0076,38,29,64.27,1778.78,0,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0077,41,72,76.28,5464.33,1,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0078,30,30,66.67,1879.4,2,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0079,58,16,72.12,1070.55,2,Two year,DSL,Bank transfer,Yes,0
+CUST-CUR-0080,52,10,74.86,787.68,3,One year,DSL,Electronic check,Yes,1
+CUST-CUR-0081,34,12,88.75,1088.59,0,One year,No,Electronic check,No,0
+CUST-CUR-0082,51,12,80.35,949.2,1,Two year,DSL,Mailed check,Yes,0
+CUST-CUR-0083,29,1,52.66,52.66,0,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0084,48,8,64.17,541.14,1,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0085,56,11,58.43,588.49,0,Month-to-month,DSL,Bank transfer,No,1
+CUST-CUR-0086,52,14,92.54,1321.87,0,One year,No,Credit card,Yes,0
+CUST-CUR-0087,51,72,74.36,5300.19,1,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0088,35,13,91.75,1061.12,2,Month-to-month,DSL,Credit card,No,1
+CUST-CUR-0089,35,23,49.66,997.11,1,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0090,54,72,60.73,4291.56,1,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0091,64,8,75.64,680.72,1,Two year,DSL,Mailed check,Yes,0
+CUST-CUR-0092,40,1,89.32,145.77,3,Month-to-month,Fiber optic,Electronic check,No,1
+CUST-CUR-0093,48,72,98.59,7097.73,0,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0094,29,19,58.5,1197.32,0,Two year,No,Bank transfer,Yes,0
+CUST-CUR-0095,38,47,123.32,5712.05,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0096,36,34,107.78,3672.63,0,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0097,28,1,109.99,122.12,1,Month-to-month,No,Mailed check,Yes,1
+CUST-CUR-0098,28,1,89.52,115.59,0,Month-to-month,Fiber optic,Electronic check,No,1
+CUST-CUR-0099,41,72,56.01,3969.13,0,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0100,44,38,64.86,2423.33,0,Month-to-month,No,Mailed check,Yes,0
+CUST-CUR-0101,37,22,68.52,1593.99,8,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0102,53,28,74.75,2123.66,0,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0103,46,11,70.35,642.08,0,Month-to-month,No,Electronic check,Yes,0
+CUST-CUR-0104,47,55,74.54,4118.38,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0105,60,9,77.99,626.29,0,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0106,44,38,86.2,3299.32,0,One year,No,Bank transfer,Yes,0
+CUST-CUR-0107,44,22,73.56,1628.81,1,Month-to-month,DSL,Bank transfer,Yes,1
+CUST-CUR-0108,43,51,96.34,4913.14,4,One year,No,Bank transfer,Yes,0
+CUST-CUR-0109,26,5,94.59,431.69,0,Month-to-month,DSL,Mailed check,No,0
+CUST-CUR-0110,42,3,39.79,95.25,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0111,58,33,71.5,2360.57,0,Two year,DSL,Bank transfer,No,0
+CUST-CUR-0112,47,72,109.11,7924.98,2,One year,DSL,Bank transfer,Yes,0
+CUST-CUR-0113,56,8,77.58,441.93,0,One year,No,Credit card,Yes,1
+CUST-CUR-0114,50,13,67.82,896.82,0,One year,Fiber optic,Electronic check,No,0
+CUST-CUR-0115,53,33,92.83,2991.83,1,Month-to-month,No,Credit card,Yes,0
+CUST-CUR-0116,34,41,80.86,3294.69,2,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0117,45,72,105.46,7561.61,7,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0118,48,1,72.29,72.29,4,Two year,DSL,Bank transfer,Yes,0
+CUST-CUR-0119,39,72,87.07,6304.05,5,One year,DSL,Bank transfer,No,0
+CUST-CUR-0120,45,1,82.52,146.84,0,One year,No,Mailed check,Yes,0
+CUST-CUR-0121,26,5,61.64,346.38,3,One year,Fiber optic,Credit card,No,0
+CUST-CUR-0122,32,36,89.77,3258.32,1,Month-to-month,No,Credit card,No,0
+CUST-CUR-0123,28,14,83.71,1091.46,1,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0124,32,52,46.73,2515.4,0,Month-to-month,DSL,Credit card,No,0
+CUST-CUR-0125,28,26,55.39,1460.81,0,Two year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0126,34,26,73.02,1941.5,0,Month-to-month,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0127,25,13,111.68,1517.7,1,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0128,47,15,46.45,640.87,6,One year,Fiber optic,Credit card,No,0
+CUST-CUR-0129,18,27,67.18,1806.44,1,Month-to-month,No,Mailed check,No,0
+CUST-CUR-0130,21,40,91.91,3594.65,5,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0131,32,36,63.33,2185.34,4,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0132,45,40,58.06,2353.45,2,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0133,52,26,59.11,1396.95,1,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0134,30,2,82.48,117.36,1,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0135,45,33,89.93,2917.15,1,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0136,41,68,103.34,7010.76,0,Two year,No,Credit card,Yes,0
+CUST-CUR-0137,61,62,83.91,5212.57,0,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0138,52,10,47.36,434.08,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0139,58,1,87.68,93.26,0,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0140,25,1,54.12,54.12,4,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0141,48,28,77.83,2075.48,2,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0142,49,6,51.22,453.06,0,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0143,46,1,71.69,86.32,4,One year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0144,45,38,69.77,2630.22,2,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0145,36,72,111.37,8042.05,0,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0146,40,1,124.31,124.31,1,Month-to-month,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0147,25,3,70.55,246.28,0,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0148,40,1,95.36,229.87,2,Month-to-month,No,Credit card,Yes,1
+CUST-CUR-0149,41,72,56.79,4049.51,1,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0150,43,1,52.25,96.03,0,Two year,No,Bank transfer,Yes,0
+CUST-CUR-0151,42,72,74.28,5368.08,0,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0152,24,34,103.2,3535.4,1,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0153,43,7,80.73,507.78,4,Month-to-month,DSL,Bank transfer,No,0
+CUST-CUR-0154,41,25,42.54,1024.14,1,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0155,43,11,92.08,1114.85,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0156,38,9,71.8,502.66,0,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0157,25,1,78.22,96.4,0,Two year,DSL,Electronic check,Yes,0
+CUST-CUR-0158,57,27,75.9,1980.25,1,One year,DSL,Bank transfer,No,0
+CUST-CUR-0159,18,1,80.59,80.59,0,Month-to-month,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0160,40,66,85.22,5714.52,1,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0161,55,1,55.35,82.76,1,One year,No,Bank transfer,Yes,0
+CUST-CUR-0162,52,2,35.64,95.91,1,One year,No,Electronic check,No,0
+CUST-CUR-0163,42,72,88.9,6448.05,0,Month-to-month,DSL,Credit card,No,0
+CUST-CUR-0164,56,29,98.57,2842.14,1,Month-to-month,Fiber optic,Bank transfer,No,0
+CUST-CUR-0165,25,8,32.78,305.58,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0166,38,16,71.91,1168.81,3,One year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0167,50,2,85.89,205.46,0,Month-to-month,DSL,Bank transfer,No,0
+CUST-CUR-0168,18,3,84.08,259.66,0,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0169,30,14,60.45,915.0,4,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0170,45,72,110.43,8027.93,0,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0171,55,39,76.74,3022.9,0,Two year,No,Electronic check,Yes,1
+CUST-CUR-0172,61,30,73.64,2266.88,3,One year,DSL,Credit card,No,0
+CUST-CUR-0173,50,7,63.05,251.65,2,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0174,50,16,60.93,940.57,1,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0175,40,36,72.05,2551.15,0,One year,DSL,Electronic check,No,0
+CUST-CUR-0176,49,42,44.44,1886.55,2,Month-to-month,No,Electronic check,Yes,0
+CUST-CUR-0177,46,9,80.94,758.78,0,Month-to-month,Fiber optic,Credit card,No,1
+CUST-CUR-0178,40,1,67.16,67.16,3,Two year,DSL,Electronic check,Yes,0
+CUST-CUR-0179,29,8,37.02,406.21,2,One year,No,Credit card,Yes,0
+CUST-CUR-0180,38,72,53.75,3839.23,4,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0181,31,12,72.8,867.54,2,Month-to-month,DSL,Credit card,No,1
+CUST-CUR-0182,37,9,72.92,601.17,0,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0183,55,10,75.85,689.88,3,Month-to-month,Fiber optic,Mailed check,No,1
+CUST-CUR-0184,35,20,46.8,940.29,3,Month-to-month,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0185,62,15,60.67,909.59,0,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0186,51,6,96.17,671.32,2,Month-to-month,Fiber optic,Bank transfer,No,0
+CUST-CUR-0187,67,2,98.28,266.65,0,One year,Fiber optic,Electronic check,No,0
+CUST-CUR-0188,51,4,78.95,380.34,1,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0189,55,21,103.62,2194.3,1,Month-to-month,DSL,Electronic check,No,1
+CUST-CUR-0190,55,14,70.17,1037.14,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0191,60,12,102.12,1273.46,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0192,55,25,75.55,1986.9,0,One year,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0193,44,32,81.65,2628.06,2,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0194,51,8,59.31,474.63,1,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0195,39,28,71.72,1981.11,2,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0196,62,1,57.76,57.76,0,One year,DSL,Credit card,Yes,0
+CUST-CUR-0197,49,12,61.0,721.7,0,Month-to-month,Fiber optic,Bank transfer,No,1
+CUST-CUR-0198,78,2,67.91,214.83,4,One year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0199,43,11,57.03,547.67,0,One year,DSL,Bank transfer,No,0
+CUST-CUR-0200,60,67,66.01,4481.46,0,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0201,46,6,84.92,496.06,1,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0202,49,2,56.7,56.7,0,Month-to-month,No,Electronic check,Yes,0
+CUST-CUR-0203,51,38,62.12,2279.51,0,Month-to-month,No,Bank transfer,No,0
+CUST-CUR-0204,53,14,79.11,1160.61,0,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0205,32,11,90.48,843.49,2,Month-to-month,Fiber optic,Bank transfer,No,1
+CUST-CUR-0206,58,13,81.31,1028.38,0,Month-to-month,DSL,Mailed check,Yes,0
+CUST-CUR-0207,31,1,69.66,77.89,4,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0208,51,13,62.96,755.16,1,Two year,DSL,Electronic check,Yes,0
+CUST-CUR-0209,61,2,64.47,159.0,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0210,53,72,102.21,7398.17,0,Month-to-month,Fiber optic,Bank transfer,No,0
+CUST-CUR-0211,46,13,115.64,1547.68,3,Month-to-month,Fiber optic,Mailed check,Yes,1
+CUST-CUR-0212,39,16,59.81,948.88,0,Month-to-month,DSL,Mailed check,Yes,0
+CUST-CUR-0213,21,39,56.95,2175.34,4,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0214,38,16,69.08,1117.76,0,Two year,No,Bank transfer,No,0
+CUST-CUR-0215,42,7,79.48,572.67,3,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0216,41,1,96.84,96.84,0,Month-to-month,DSL,Credit card,No,0
+CUST-CUR-0217,57,21,76.42,1488.51,2,One year,DSL,Electronic check,No,0
+CUST-CUR-0218,48,18,94.26,1696.76,2,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0219,44,53,75.28,3948.19,0,Month-to-month,No,Electronic check,No,0
+CUST-CUR-0220,58,22,46.68,1107.9,3,One year,DSL,Credit card,No,0
+CUST-CUR-0221,73,37,102.64,3725.15,0,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0222,49,16,103.55,1588.86,2,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0223,42,72,20,1422.87,1,Two year,DSL,Bank transfer,No,0
+CUST-CUR-0224,59,48,87.84,4089.41,1,One year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0225,38,7,62.97,501.82,1,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0226,47,24,65.45,1661.0,1,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0227,37,29,74.57,2029.36,0,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0228,56,10,51.59,590.78,2,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0229,52,37,68.55,2448.96,1,Month-to-month,No,Credit card,No,0
+CUST-CUR-0230,25,2,86.77,173.63,0,One year,DSL,Mailed check,No,0
+CUST-CUR-0231,39,72,81.3,5900.1,1,One year,DSL,Electronic check,No,0
+CUST-CUR-0232,35,1,87.55,87.55,1,One year,DSL,Electronic check,Yes,1
+CUST-CUR-0233,51,66,48.66,3198.23,1,One year,No,Electronic check,Yes,0
+CUST-CUR-0234,45,57,35.63,1973.23,0,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0235,36,1,59.84,59.84,0,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0236,47,8,66.61,586.75,3,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0237,35,1,55.27,94.22,2,Month-to-month,DSL,Credit card,No,0
+CUST-CUR-0238,56,4,57.03,256.38,1,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0239,37,72,62.37,4552.49,1,One year,DSL,Electronic check,No,0
+CUST-CUR-0240,35,35,69.2,2379.58,1,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0241,46,25,63.62,1572.7,0,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0242,46,35,56.78,1869.66,0,Two year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0243,35,38,77.65,3015.21,0,One year,No,Credit card,Yes,0
+CUST-CUR-0244,20,27,70.16,1924.9,1,Month-to-month,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0245,47,72,71.32,5126.08,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0246,58,15,62.53,933.39,2,Month-to-month,DSL,Mailed check,No,0
+CUST-CUR-0247,50,15,70.46,1144.13,0,Two year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0248,63,72,113.23,8188.05,2,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0249,25,14,50.86,710.94,0,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0250,42,6,111.31,643.85,0,Two year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0251,77,1,52.01,142.22,0,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0252,48,40,66.96,2642.78,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0253,39,29,61.79,1668.88,1,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0254,39,22,77.28,1686.67,2,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0255,47,15,74.57,1082.88,0,One year,DSL,Bank transfer,Yes,0
+CUST-CUR-0256,59,17,78.93,1361.23,1,Month-to-month,DSL,Credit card,No,1
+CUST-CUR-0257,40,7,81.22,715.27,2,Month-to-month,DSL,Electronic check,No,1
+CUST-CUR-0258,31,11,62.72,725.06,0,One year,No,Mailed check,Yes,0
+CUST-CUR-0259,39,20,67.73,1274.48,0,Month-to-month,Fiber optic,Electronic check,No,1
+CUST-CUR-0260,57,72,68.09,4855.46,2,Month-to-month,DSL,Bank transfer,Yes,1
+CUST-CUR-0261,56,43,76.47,3261.78,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0262,41,16,79.25,1290.06,4,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0263,48,13,68.17,768.94,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0264,46,25,76.6,1884.61,0,Two year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0265,57,72,67.58,4863.99,1,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0266,40,51,83.67,4266.76,0,One year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0267,56,29,62.37,1838.42,2,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0268,54,72,94.7,6806.15,1,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0269,34,50,61.57,2990.16,0,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0270,46,4,86.21,277.19,2,Month-to-month,No,Electronic check,Yes,1
+CUST-CUR-0271,42,10,66.11,698.25,3,Two year,No,Credit card,Yes,0
+CUST-CUR-0272,28,72,79.63,5753.34,3,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0273,46,5,52.24,242.13,0,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0274,35,6,59.2,325.03,1,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0275,60,18,71.98,1287.2,2,One year,No,Credit card,No,0
+CUST-CUR-0276,43,53,22.76,1223.13,0,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0277,45,39,55.06,2096.84,3,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0278,36,15,109.47,1654.6,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0279,61,41,77.56,3176.06,0,Two year,DSL,Electronic check,Yes,0
+CUST-CUR-0280,45,42,83.58,3547.5,1,One year,No,Electronic check,Yes,0
+CUST-CUR-0281,42,36,71.89,2460.36,1,Month-to-month,No,Bank transfer,No,0
+CUST-CUR-0282,44,9,80.41,775.84,0,Month-to-month,No,Credit card,No,0
+CUST-CUR-0283,76,1,54.57,73.86,1,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0284,32,2,61.74,120.1,9,One year,DSL,Credit card,Yes,0
+CUST-CUR-0285,58,72,70.4,5006.41,2,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0286,46,13,72.86,858.33,1,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0287,32,15,91.51,1498.55,0,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0288,64,72,76.43,5578.34,0,Month-to-month,No,Electronic check,Yes,0
+CUST-CUR-0289,53,32,65.84,1987.24,0,Month-to-month,Fiber optic,Electronic check,No,1
+CUST-CUR-0290,38,42,95.77,4078.9,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0291,28,2,68.36,189.24,2,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0292,41,3,86.13,305.71,0,Month-to-month,No,Bank transfer,Yes,1
+CUST-CUR-0293,49,3,59.55,268.43,4,One year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0294,47,41,94.56,3953.64,3,One year,No,Electronic check,No,0
+CUST-CUR-0295,24,39,70.25,2800.28,1,Two year,Fiber optic,Credit card,No,0
+CUST-CUR-0296,35,68,58.83,4014.11,2,One year,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0297,41,17,54.89,861.98,0,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0298,40,1,83.43,84.91,1,One year,DSL,Mailed check,Yes,0
+CUST-CUR-0299,67,25,88.17,2206.79,0,Month-to-month,DSL,Mailed check,No,1
+CUST-CUR-0300,42,4,89.09,349.5,3,Month-to-month,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0301,74,72,50.41,3530.39,0,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0302,48,72,115.17,8213.63,2,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0303,40,7,83.17,493.74,0,Month-to-month,No,Credit card,Yes,1
+CUST-CUR-0304,52,4,90.14,347.12,6,One year,Fiber optic,Mailed check,No,0
+CUST-CUR-0305,48,62,72.76,4539.25,6,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0306,71,27,43.25,1011.83,0,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0307,67,22,70.74,1540.51,5,One year,Fiber optic,Electronic check,No,0
+CUST-CUR-0308,49,1,92.7,162.04,1,Two year,No,Electronic check,Yes,0
+CUST-CUR-0309,47,1,78.48,130.87,0,Two year,DSL,Mailed check,Yes,0
+CUST-CUR-0310,66,51,64.39,3345.95,0,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0311,39,2,88.97,317.75,1,One year,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0312,66,1,88.07,110.27,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0313,47,1,44.76,98.24,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0314,47,6,85.24,501.17,0,Month-to-month,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0315,47,1,50.39,50.39,0,Month-to-month,No,Credit card,Yes,0
+CUST-CUR-0316,51,40,78.93,3140.41,0,Two year,No,Electronic check,No,0
+CUST-CUR-0317,30,1,78.42,78.42,4,One year,DSL,Credit card,No,0
+CUST-CUR-0318,43,53,62.5,3225.53,0,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0319,18,43,78.72,3383.25,0,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0320,34,50,79.29,3880.47,1,One year,Fiber optic,Credit card,Yes,1
+CUST-CUR-0321,39,20,98.89,2082.04,0,Month-to-month,Fiber optic,Electronic check,No,1
+CUST-CUR-0322,18,63,50.54,3358.59,0,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0323,49,68,105.8,7257.01,4,One year,DSL,Credit card,Yes,0
+CUST-CUR-0324,44,2,67.95,242.97,1,Two year,No,Bank transfer,Yes,0
+CUST-CUR-0325,40,7,45.72,236.97,0,Month-to-month,DSL,Bank transfer,Yes,1
+CUST-CUR-0326,45,16,103.68,1619.94,2,Two year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0327,44,9,72.28,722.67,0,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0328,32,72,87.41,6345.05,1,Two year,DSL,Electronic check,Yes,0
+CUST-CUR-0329,31,8,57.81,586.27,1,One year,Fiber optic,Credit card,No,0
+CUST-CUR-0330,35,42,80.59,3425.09,2,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0331,59,6,69.63,424.25,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0332,18,1,75.0,75.0,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0333,53,6,43.42,411.46,4,Two year,No,Bank transfer,Yes,0
+CUST-CUR-0334,55,28,87.26,2575.63,0,One year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0335,33,1,67.65,67.65,0,Two year,No,Electronic check,Yes,1
+CUST-CUR-0336,39,2,111.41,156.08,2,Month-to-month,Fiber optic,Bank transfer,Yes,1
+CUST-CUR-0337,48,9,64.45,579.27,2,Two year,No,Bank transfer,No,0
+CUST-CUR-0338,39,3,85.3,354.14,2,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0339,44,3,72.05,298.95,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0340,24,24,56.27,1329.49,4,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0341,29,72,93.36,6508.18,0,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0342,32,44,69.6,3042.61,0,One year,DSL,Credit card,No,0
+CUST-CUR-0343,56,8,101.69,819.16,0,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0344,31,11,88.07,839.78,1,Two year,DSL,Credit card,No,0
+CUST-CUR-0345,49,46,63.26,2895.17,0,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0346,34,55,57.57,3059.33,0,Month-to-month,No,Credit card,Yes,0
+CUST-CUR-0347,63,1,63.12,105.59,1,One year,No,Mailed check,Yes,0
+CUST-CUR-0348,38,64,82.92,5267.05,1,One year,Fiber optic,Electronic check,No,0
+CUST-CUR-0349,50,1,85.09,111.81,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0350,29,8,94.54,755.32,0,Month-to-month,No,Bank transfer,No,0
+CUST-CUR-0351,60,21,88.29,1899.79,1,One year,DSL,Mailed check,Yes,0
+CUST-CUR-0352,33,72,69.74,4975.03,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0353,43,5,93.19,436.59,0,Month-to-month,Fiber optic,Electronic check,No,1
+CUST-CUR-0354,38,1,67.33,67.33,6,One year,DSL,Credit card,No,0
+CUST-CUR-0355,61,10,67.13,744.74,1,Month-to-month,Fiber optic,Bank transfer,No,0
+CUST-CUR-0356,26,38,74.96,2822.85,2,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0357,71,17,31.49,511.77,3,One year,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0358,60,16,60.32,1010.92,0,One year,Fiber optic,Mailed check,No,0
+CUST-CUR-0359,39,21,66.2,1376.21,1,Month-to-month,DSL,Bank transfer,No,0
+CUST-CUR-0360,49,14,61.42,965.5,2,Month-to-month,DSL,Electronic check,No,1
+CUST-CUR-0361,49,1,56.79,56.79,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0362,49,34,72.49,2482.27,2,Two year,Fiber optic,Credit card,No,0
+CUST-CUR-0363,45,22,111.78,2545.41,2,One year,DSL,Bank transfer,Yes,1
+CUST-CUR-0364,42,72,86.96,6314.71,0,Month-to-month,Fiber optic,Credit card,Yes,1
+CUST-CUR-0365,25,72,52.86,3837.85,0,Two year,DSL,Credit card,Yes,0
+CUST-CUR-0366,52,61,33.58,2062.55,1,Month-to-month,DSL,Bank transfer,Yes,0
+CUST-CUR-0367,40,13,49.72,697.62,0,Month-to-month,Fiber optic,Credit card,Yes,0
+CUST-CUR-0368,67,8,109.34,799.38,1,Two year,No,Credit card,Yes,0
+CUST-CUR-0369,55,6,65.36,531.9,0,One year,No,Bank transfer,Yes,0
+CUST-CUR-0370,42,7,81.28,560.71,2,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0371,32,21,78.93,1689.5,0,One year,Fiber optic,Electronic check,No,0
+CUST-CUR-0372,59,1,77.0,77.0,1,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0373,50,72,84.95,6082.22,2,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0374,31,2,60.07,75.34,2,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0375,50,1,80.01,80.01,5,Two year,Fiber optic,Electronic check,No,0
+CUST-CUR-0376,66,1,77.68,147.69,1,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0377,61,1,100.46,117.05,0,Month-to-month,DSL,Electronic check,Yes,1
+CUST-CUR-0378,60,7,88.32,624.2,1,Two year,No,Bank transfer,No,0
+CUST-CUR-0379,40,19,77.78,1411.95,0,Month-to-month,Fiber optic,Electronic check,No,0
+CUST-CUR-0380,55,9,64.49,551.78,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0381,30,3,32.46,46.18,1,One year,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0382,18,1,95.04,190.62,3,Month-to-month,Fiber optic,Mailed check,No,1
+CUST-CUR-0383,40,44,79.4,3477.18,1,Month-to-month,DSL,Electronic check,No,0
+CUST-CUR-0384,67,35,71.36,2429.87,0,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0385,63,13,83.24,1090.38,2,Month-to-month,No,Bank transfer,Yes,0
+CUST-CUR-0386,68,1,101.24,189.65,3,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0387,37,8,20,196.25,0,Two year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0388,59,1,74.38,74.38,0,Month-to-month,Fiber optic,Credit card,No,0
+CUST-CUR-0389,35,5,105.83,491.42,1,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0390,32,5,63.69,406.17,2,Month-to-month,Fiber optic,Electronic check,Yes,1
+CUST-CUR-0391,43,72,73.65,5346.01,1,One year,Fiber optic,Mailed check,Yes,0
+CUST-CUR-0392,27,1,81.45,154.32,2,Two year,No,Bank transfer,No,1
+CUST-CUR-0393,36,5,48.36,335.27,1,Month-to-month,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0394,49,8,69.09,599.37,0,Month-to-month,DSL,Credit card,No,0
+CUST-CUR-0395,49,6,80.07,483.03,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0396,78,19,58.12,1118.65,0,One year,DSL,Electronic check,Yes,0
+CUST-CUR-0397,58,8,97.43,739.25,2,One year,DSL,Bank transfer,No,0
+CUST-CUR-0398,56,11,69.35,719.9,3,One year,DSL,Electronic check,No,1
+CUST-CUR-0399,32,2,64.7,64.7,0,One year,Fiber optic,Credit card,No,0
+CUST-CUR-0400,48,6,52.51,294.14,0,Month-to-month,DSL,Electronic check,Yes,0
+CUST-CUR-0401,55,29,73.19,2137.53,2,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0402,49,1,56.74,56.74,1,One year,DSL,Credit card,Yes,0
+CUST-CUR-0403,34,17,70.58,1166.24,0,One year,DSL,Credit card,Yes,0
+CUST-CUR-0404,41,39,89.41,3456.64,1,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0405,48,18,79.9,1352.06,1,One year,Fiber optic,Bank transfer,No,0
+CUST-CUR-0406,26,72,44.81,3115.93,1,One year,No,Credit card,Yes,0
+CUST-CUR-0407,63,6,88.74,551.66,1,Month-to-month,No,Bank transfer,No,1
+CUST-CUR-0408,55,30,75.43,2294.46,7,One year,DSL,Mailed check,Yes,0
+CUST-CUR-0409,51,44,59.66,2642.55,0,Month-to-month,DSL,Credit card,Yes,0
+CUST-CUR-0410,23,72,51.75,3624.73,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0411,46,60,42.61,2628.33,4,One year,Fiber optic,Electronic check,Yes,0
+CUST-CUR-0412,47,16,43.54,618.11,2,One year,No,Electronic check,No,1
+CUST-CUR-0413,55,15,78.96,1163.0,0,One year,DSL,Bank transfer,No,0
+CUST-CUR-0414,50,2,33.45,33.45,1,Two year,DSL,Mailed check,Yes,0
+CUST-CUR-0415,47,40,79.55,3137.07,0,Month-to-month,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0416,56,1,59.76,59.76,5,One year,Fiber optic,Bank transfer,Yes,0
+CUST-CUR-0417,52,1,82.09,211.17,3,Month-to-month,DSL,Electronic check,No,1
+CUST-CUR-0418,60,10,84.78,881.42,5,Month-to-month,No,Mailed check,No,0
+CUST-CUR-0419,20,19,74.01,1278.22,6,One year,Fiber optic,Credit card,Yes,0
+CUST-CUR-0420,32,40,51.47,2008.21,3,Month-to-month,Fiber optic,Credit card,No,0

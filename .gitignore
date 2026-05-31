@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.db
+*.sqlite
+
+# Backend runtime artifacts
+backend/mlops_monitor.db
+backend/artifacts/models/*.joblib
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+npm-debug.log*
+
+# Local config
+.env
+backend/.env
+frontend/.env
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.idea/
