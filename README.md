@@ -144,7 +144,3 @@ flowchart LR
 ```
 
 Detailed architecture notes are in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
-
-## Portfolio Notes
-
-This project is designed around Param Saxena's skills in Python, FastAPI, React.js, SQL, scikit-learn, backend development, workflow automation, and data science. It is intentionally more than CRUD: it includes ML lifecycle behavior, automated decisions, model observability, versioned artifacts, and a polished dashboard.
